@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:8000";
+const baseUrl = "https://ai-blog-server.vercel.app";
 // Prod base url
 //const baseUrl = "https://blog-app-server-jm15.onrender.com";
 
