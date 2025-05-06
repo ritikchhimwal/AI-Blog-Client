@@ -1,6 +1,6 @@
-const baseUrl = "https://ai-blog-server.vercel.app";
+//const baseUrl = "https://ai-blog-server.vercel.app";
 // Prod base url
-//const baseUrl = "https://blog-app-server-jm15.onrender.com";
+const baseUrl = "https://blog-app-server-jm15.onrender.com";
 
 const Endpoints = {
   login: `${baseUrl}/auth/login`,
